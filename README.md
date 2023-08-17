@@ -1,5 +1,3 @@
-# selenium-assessment
-
 ## QE assessment
 
 `HomePage.js` - contains selectors and methods relevant to the **Home** tab
